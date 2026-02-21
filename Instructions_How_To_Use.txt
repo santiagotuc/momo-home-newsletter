@@ -1,0 +1,40 @@
+===================================================
+MOMO HOMES - EMAIL ASSETS INSTRUCTIONS
+===================================================
+
+HOW TO INSTALL YOUR HTML EMAIL SIGNATURES:
+
+The files provided (firma_trevor.html, firma_doug.html, firma_karen.html, firma_sales.html) 
+are fully coded HTML signatures. 
+Do NOT use them as images.
+
+Step 1: Open the HTML file
+Double-click the .html file corresponding to your name. 
+It will open in your default web browser (Chrome, Safari, Edge, etc.).
+
+Step 2: Copy the Design
+On your keyboard, press Ctrl+A (or Cmd+A on Mac) to "Select All". The entire design will be highlighted.
+Then, press Ctrl+C (or Cmd+C on Mac) to "Copy".
+
+Step 3: Paste into your Email Client
+- GMAIL: Go to Settings (gear icon) > See all settings > Scroll down to the "Signature" section. 
+Create a new signature and press Ctrl+V (or Cmd+V) to paste the design into the text box. 
+Save changes at the bottom.
+
+- OUTLOOK (Desktop): Go to File > Options > Mail > Signatures. 
+Create a new signature and paste (Ctrl+V) the design into the edit box. 
+Save and assign it to your email account.
+
+- APPLE MAIL: Go to Mail > Settings > Signatures. Select your account, 
+click the "+" to add a new signature, 
+uncheck "Always match my default message font", and paste the design.
+
+---------------------------------------------------
+
+HOW TO USE THE NEWSLETTER TEMPLATE:
+
+The "newsletter.html" file is a coded template designed for email marketing platforms.
+To send this to a large list of clients, you should upload the HTML code into a platform 
+like Mailchimp, Constant Contact, or SendGrid. These platforms will allow you to easily 
+replace the placeholder images with your real property photos and send the newsletter 
+cleanly to thousands of contacts.
